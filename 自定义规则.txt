@@ -1,0 +1,3 @@
+DOMAIN,bard.google.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,claude.ai
