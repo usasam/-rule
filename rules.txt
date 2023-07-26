@@ -1,4 +1,3 @@
 bard.google.com
 .openai.com
 .claude.ai
-.bing.com
