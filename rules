@@ -1,4 +1,4 @@
-.openai.com
-bard.google.com
-.poe.com
-.claude.ai
+- DOMAIN-SUFFIX,openai.com
+- DOMAIN,bard.google.com
+- DOMAIN-SUFFIX,poe.com
+- DOMAIN-SUFFIX,claude.ai
