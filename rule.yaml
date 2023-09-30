@@ -1,4 +1,5 @@
-- DOMAIN-SUFFIX,openai.com
-- DOMAIN-SUFFIX,bard.google.com
-- DOMAIN-SUFFIX,poe.com
-- DOMAIN-SUFFIX,claude.ai
+payload:
+  - DOMAIN-SUFFIX,openai.com
+  - DOMAIN-SUFFIX,bard.google.com
+  - DOMAIN-SUFFIX,poe.com
+  - DOMAIN-SUFFIX,claude.ai
