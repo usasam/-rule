@@ -1,4 +1,4 @@
-.facebook.com
-.twitter.com
-.reddit.com
-.quora.com
+- DOMAIN-SUFFIX,facebook.com
+- DOMAIN-SUFFIX,twitter.com
+- DOMAIN-SUFFIX,reddit.com
+- DOMAIN-SUFFIX,quora.com
